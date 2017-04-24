@@ -17,7 +17,7 @@ for installing DeepDream on a Raspberry Pi 2.
 
 Usage
 -----------------------------------
-The script deepdreaming.py is controlled via command-line parameters. They are listed with
+The script deepdreaming.py is controlled via command line parameters. They are listed with
 
     $python deepdreaming.py --help
 
